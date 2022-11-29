@@ -18,7 +18,7 @@ I have more than 3 years of experience in collecting, organizing, interpreting a
 
 - :bar_chart: I’m working as an Analyst of the Financial Analysis and Forecast Group in a big Publising House
 
-- :spiral_calendar: Every day I make regular reports on sales, shipments, reserves, balances in various sections, monitor the implementation of sales plans and budget compliance, calculate of various metrics using Excel, SQL, PowerPoint
+- :spiral_calendar: Every day I make regular reports on sales, shipments, reserves, balances in various sections, monitor the implementation of sales plans and budget compliance, calculate of various metrics using Excel, SQL, PowerPoint, Qlik
 
 - :writing_hand: In my free time, I take courses in data analytics, learn new functions and programs. You can see my study projects here
 
